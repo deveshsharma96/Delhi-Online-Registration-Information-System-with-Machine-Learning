@@ -1,3 +1,4 @@
+
 # Delhi Property Scraper
 
 A full-stack web application that automatically scrapes **Delhi property registration records** from the Delhi Government website and stores them in a **MySQL database**.
@@ -238,3 +239,7 @@ If records are not present in the database, the scraper will automatically start
 
 # Author
 Devesh Sharma
+=======
+# Yuktic_DORIS
+Delhi Property Scraper using FastAPI, Selenium, EasyOCR, React
+
