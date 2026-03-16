@@ -1,0 +1,4 @@
+.env
+captcha.png
+__pycache__/
+*.log
